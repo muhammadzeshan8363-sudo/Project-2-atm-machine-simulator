@@ -16,5 +16,6 @@ A simple Python application that simulates basic banking and ATM transactions th
 2. Run the script using Terminal or VS Code:
    ```bash
    python "bank system"
-   Tech Stack
+
+## Tech Stack
 Language: Python 3
